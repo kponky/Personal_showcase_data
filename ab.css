@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000;
+}
+
+
+
+main{
+
+    background-color: rgb(45, 42, 39);
+    text-align: center;
+    color: rgb(244, 205, 195);
+    height: fit-content;
+   width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   padding: 20px;
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+
+h1{
+    padding: 10px;
+
+
+}
+
+
+h2, h5{
+    font-size: 20px;
+}
+
+p{
+    font-weight: 700;
+
+}
+
+span{
+    font-weight: 500;
+}
+
+
+img{
+    width: 80%;
+    height: 80%;
+}
+
+.image img{
+    width: 50%;
+    height: 40%;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.slack-info, .date-time{
+    text-align: left;
+    padding: 10px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+/* 
+.text{
+    background: #e8dddd;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top:40px ;
+    color: #000;
+    text-align: center;
+    padding: 20px;
+} */
+
+
+
+/* .img-text{
+    background-color: rgb(45, 42, 39);
+    text-align: center;
+    color: aliceblue;
+    height: 490px;
+   width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   padding: 20px;
+   margin-bottom: 20px;
+   border-radius: 10px;
+
+   
+
+} */
+
+/* .img-text h1{
+    padding: 10px;
+    text-align:left;
+    color:#e8dddd
+} */
+
+/* .img-text img{
+    width: 40%;
+    height: 40%;
+} */
+
+/* .img-text .data-test, .track{
+    text-align: left;
+    padding: 10px;
+    font-size: 18px;
+} */
+
+/* .img-text .track{
+    margin-bottom: 20px;
+    font-size: 18px;
+
+   
+} */
+
