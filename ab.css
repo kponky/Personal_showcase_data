@@ -51,6 +51,12 @@ img{
     height: 80%;
 }
 
+a{
+    /* text-decoration: none; */
+font-style: italic;
+    color: rgb(244, 205, 195);
+}
+
 .image img{
     width: 50%;
     height: 40%;
@@ -60,7 +66,7 @@ img{
 
 .slack-info, .date-time{
     text-align: left;
-    padding: 10px;
+    padding: 9px;
     line-height: 30px;
 }
 
